@@ -1,0 +1,14 @@
+{
+  "name": "intern_application",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Ibrahim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
